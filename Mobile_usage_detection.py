@@ -214,8 +214,8 @@ while True:
                                             # Assuming the column name in Excel is 'Phone'
                                             
                                             # Send email
-                                            sender_email = 'chaitanyachaitu251@gmail.com'
-                                            sender_password = 'tqzh alat zhaj gsog'
+                                            sender_email = 'USER MAIL ID'
+                                            sender_password = 'MAIL ID PASSWORD' #Format: 'tquj dien ukdi aheu'
                                             receiver_email = email
                                             subject = 'Notice: Mobile Phone Usage Detected in the COLLEGE PREMISES'
                                             message = f"Dear {name},\n\nWe hope this message finds you well. We regret to inform you that our surveillance system has detected the usage of a mobile phone in the college premises.His/Her Roll NO is :{roll_number}"
